@@ -1,0 +1,15 @@
+$(document).ready(function() {
+    $('#example').DataTable( {
+        "scrollY":        "200px",
+        "scrollCollapse": true,
+	"ordering":   false,
+        "paging":         false,
+	 "searching": false
+    } );
+} );
+
+
+       
+
+
+
